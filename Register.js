@@ -15,3 +15,7 @@ function verify(){
         return true;
     }
   }
+
+
+<form name="myform" method="POST" action="login.html" onsubmit="return verify()"> between Line 38 and 40
+<script src="Register.js"></script> Line 13 before </head>
